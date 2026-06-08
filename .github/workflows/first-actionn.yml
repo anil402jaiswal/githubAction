@@ -17,4 +17,4 @@ jobs:
 
     - name: Run addition script
       run: |
-        python addition.py
+        python src/addition.py
