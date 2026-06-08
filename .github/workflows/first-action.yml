@@ -17,4 +17,4 @@ jobs:
 
     - name: Run addition script
       run: |
-        python src/GitHub-Actions-Zero-to-Hero-main/src/addition.py
+        python src/addition.py
